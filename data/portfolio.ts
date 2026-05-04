@@ -33,7 +33,7 @@ export const profile = {
     "Atuar como Analista de Infraestrutura, Analista de Suporte N2/N3, Analista de Redes ou DevOps Jr, contribuindo com suporte técnico avançado, organização de ambientes, automação de rotinas, monitoramento, segurança e melhoria contínua da infraestrutura de TI.",
   email: "savioramonnogueira@gmail.com",
   phone: "63 99265-9344",
-  linkedin: "https://www.linkedin.com/sávio-ramon/",
+  linkedin: "https://www.linkedin.com/in/sávio-ramon/",
   github: "https://github.com/ramonnezzz"
 };
 
@@ -127,7 +127,7 @@ export const quickStats = [
 export const contactLinks = [
   { label: "E-mail", value: profile.email, href: `mailto:${profile.email}`, icon: Mail },
   { label: "Telefone", value: profile.phone, href: "tel:+5563992659344", icon: Phone },
-  { label: "LinkedIn", value: "linkedin.com/sávio-ramon", href: profile.linkedin, icon: Linkedin },
+  { label: "LinkedIn", value: "linkedin.com/in/sávio-ramon", href: profile.linkedin, icon: Linkedin },
   { label: "GitHub", value: "github.com/ramonnezzz", href: profile.github, icon: Github }
 ];
 
