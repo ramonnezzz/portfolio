@@ -31,7 +31,7 @@ export function PortfolioPage() {
 
       <section id="home" className="relative min-h-screen scroll-mt-24 overflow-hidden pt-28">
         <div className="absolute inset-0 bg-tech-grid bg-[length:42px_42px] opacity-80" aria-hidden="true" />
-        <div className="absolute inset-0 bg-[radial-gradient(circle_at_20%_20%,rgba(54,215,255,0.17),transparent_30%),radial-gradient(circle_at_85%_70%,rgba(113,245,182,0.12),transparent_28%),linear-gradient(180deg,rgba(7,16,19,0.15),#071013_88%)]" aria-hidden="true" />
+        <div className="absolute inset-0 bg-[radial-gradient(circle_at_20%_20%,rgba(255,59,47,0.22),transparent_30%),radial-gradient(circle_at_85%_70%,rgba(245,180,95,0.13),transparent_28%),linear-gradient(180deg,rgba(16,6,7,0.18),#100607_88%)]" aria-hidden="true" />
 
         <div className="relative mx-auto grid min-h-[calc(100vh-7rem)] max-w-7xl items-center gap-12 px-5 pb-14 lg:grid-cols-[1.06fr_0.94fr] lg:px-8">
           <ScrollReveal>
@@ -65,8 +65,8 @@ export function PortfolioPage() {
             <div className="relative border border-line bg-panel/86 p-4 shadow-glow backdrop-blur">
               <div className="mb-4 flex items-center justify-between border-b border-line pb-3">
                 <div className="flex gap-2" aria-hidden="true">
-                  <span className="h-3 w-3 rounded-full bg-[#ff6b6b]" />
-                  <span className="h-3 w-3 rounded-full bg-[#ffd166]" />
+                  <span className="h-3 w-3 rounded-full bg-[#d42018]" />
+                  <span className="h-3 w-3 rounded-full bg-[#f5b45f]" />
                   <span className="h-3 w-3 rounded-full bg-mint" />
                 </div>
                 <span className="font-mono text-xs text-slate-400">savio@infra:~</span>

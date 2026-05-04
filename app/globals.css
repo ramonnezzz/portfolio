@@ -19,12 +19,12 @@ html {
 body {
   margin: 0;
   min-width: 320px;
-  background: #071013;
+  background: #100607;
   color: #f8fafc;
 }
 
 ::selection {
-  background: rgba(54, 215, 255, 0.32);
+  background: rgba(255, 59, 47, 0.34);
   color: #ffffff;
 }
 
